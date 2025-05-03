@@ -1,4 +1,4 @@
-# Termiz_ITcenterBot
+# 🏢 Termiz IT CenterBot
 
 🛠The following technologies were used in this project: Python (Aiogram)
 
